@@ -122,7 +122,7 @@ endLine: 143
 
 ## Contributing 🤝
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+Contributions are welcome! If you'd like to improve groqchatbot, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License 📄
 
