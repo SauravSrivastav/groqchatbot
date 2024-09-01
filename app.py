@@ -34,7 +34,7 @@ def main():
     # Display the Groq logo
     spacer, col = st.columns([5, 1])  
     with col:  
-        st.image('https://github.com/SauravSrivastav/groqchatbot/blob/main/data/groqcloud_darkmode.png')
+        st.image('https://raw.githubusercontent.com/SauravSrivastav/groqchatbot/main/data/groqcloud_darkmode.png')  # Use the raw URL for the image
 
     # The title and greeting message of the Streamlit application
     st.title("Chat with Groq!")
