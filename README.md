@@ -52,9 +52,12 @@ groqchatbot is a high-performance conversational chatbot built using Streamlit a
 4. **Adjust the conversational memory length** using the slider.
 5. **Ask a question** in the text input box and get responses from the chatbot.
 
-## 📸 App Screenshots
+## App Screenshots 📸
 
 ![Search Results](https://github.com/SauravSrivastav/groqchatbot/blob/main/data/1.png)   
+
+![Search Results](https://github.com/SauravSrivastav/groqchatbot/blob/main/data/2.png)  
+
 
 ## Detailed Code Explanation 🧩
 
